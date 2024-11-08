@@ -1,4 +1,4 @@
-do:
+run:
 python ./calculator_project/manage.py runserver
 python3 test.py
 
